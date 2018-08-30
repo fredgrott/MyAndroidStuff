@@ -1,3 +1,5 @@
+![android dev](2_web_1x.jpg)
+
 # MyAndroidStuff
 Intro and links to my android code-app examples
 
