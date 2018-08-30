@@ -45,3 +45,10 @@ fred DOT grott AT gmail DOT com
 
 
 ## Android Kotlin Samples
+
+### AndroidKTRecycle
+
+Simple way to customize RecycleView Using Kotlin. Myfirst forway into Kotlin.
+
+https://github.com/shareme/AndroidKTRecycle
+
