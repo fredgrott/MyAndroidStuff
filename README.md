@@ -25,9 +25,9 @@ results in a more stable and responsive app compared to the
 default android app arhcitecture styles that Google 
 encourages.
 
-## What Senoir Android Dev Looks Like?
+## What Senior Android Dev Looks Like?
 
-The things you should see in app-code samples for a Senoir Android Developer cover these areas:
+The things you should see in app-code samples for a Senior Android Developer cover these areas:
 
 * Choice and or creation of App Architecture to Produce a Responsive Mobile App
 * Customize and or backporting UI widgets to create the user experience
