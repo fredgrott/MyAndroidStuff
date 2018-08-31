@@ -52,3 +52,22 @@ Simple way to customize RecycleView Using Kotlin. Myfirst forway into Kotlin.
 
 https://github.com/shareme/AndroidKTRecycle
 
+## Publications
+
+Most of these articles were published on Medium
+
+### Android, Secure Those 3rd Party API Keys!
+
+https://medium.com/@fredgrott/android-secure-those-3rd-party-api-keys-f33cf1a1f465
+
+### Android Universal User ID, for Android Freaks Everywhere
+
+https://medium.com/@fredgrott/android-universal-user-id-for-android-freaks-everywhere-98b4467d1580
+
+### Do Not Force Android Users Away, Handle Your Exceptions
+
+https://medium.com/@fredgrott/do-not-force-android-users-away-handle-your-exceptions-af01304e58ce
+
+### GitHashses For Android Freaks
+
+https://medium.com/@fredgrott/githashses-for-android-freaks-76013ff4b5da
