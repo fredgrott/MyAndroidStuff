@@ -52,6 +52,12 @@ Simple way to customize RecycleView Using Kotlin. Myfirst forway into Kotlin.
 
 https://github.com/shareme/AndroidKTRecycle
 
+### AndroidDetekt
+
+Code quality for Kotlin using Detekt and Spotless-Klint
+
+https://github.com/shareme/AndroidDetektConfig
+
 ## Publications
 
 Most of these articles were published on Medium
