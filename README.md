@@ -38,7 +38,7 @@ If you cannot find these features in my app code samples, than obviously you as 
 
 ## Contact
 
-Please no recruiters as I only deal with startup cofounders. You can reach me at 
+I develop anddroid apps for companies and only respond to startup cofounders, please no recruiters. My email address is
 
 fred DOT grott AT gmail DOT com
 
