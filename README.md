@@ -1,7 +1,10 @@
 ![android dev](2_web_1x.jpg)
 
 # MyAndroidStuff
-Intro and links to my android code-app examples
+You are a cofounder of a funded startup tasked with finding an android developer. The only two things that you have to differentiate your startup from competitors is making the android app responsive AND putting HUMAN KINDNESS both in the development process and design process.
+
+I am seeking that rare startup that desires both and is willing to take a very small risk to get both.
+In these appsamples you will see CS and Design applied to the problem of reponsive app development and design of human UX experience.
 
 ## Why
 
