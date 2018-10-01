@@ -16,13 +16,17 @@ Now, you have seeen where the spark in the eye of the inner-child is killed alon
 
 Google removed some the app freezes by recycling items in RecycleView. But, that is not enough as we still have the Model and View stuff somewhat with tight coupling including the states. Thus, I am borrowing cncepts from Facebook's Flux javascript app arch and Elm's Reedux javascrip app arch and adopting it to Android and Kotlin.
 
+## Where can You see this?
 
+Remember, this is the first raw alpha version and I am implementing the app arch as a set of lib modules into absic todo app. The reason I am using Kotlin instead of Java is I get the new functional languagge features of JavaSe* and up backported via Kotlin without me having to do that messy porting myself.
+
+KTUni
 
 
 
 ## Contact
 
-I develop anddroid apps for companies and only respond to startup cofounders, please no recruiters. My email address is
+If you are a startup cofounder fully funded and ready to build the first version of you Android app than you should contact me via the below addy. Please, no recruiter spam.
 
 fred DOT grott AT gmail DOT com
 
