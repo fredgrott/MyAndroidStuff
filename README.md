@@ -1,43 +1,24 @@
 ![android dev](2_web_1x.jpg)
 
 # MyAndroidStuff
-You are a cofounder of a funded startup tasked with finding an android developer. The only two things that you have to differentiate your startup from competitors is making the android app responsive AND putting HUMAN KINDNESS both in the development process and design process.
 
-I am seeking that rare startup that desires both and is willing to take a very small risk to get both.
-In these appsamples you will see CS and Design applied to the problem of reponsive app development and design of human UX experience.
 
-## Why
+## What is Android UX and Andriod App Creation
 
-Why should you hire a top 11% android dev stackoveflow developer
+Do you as a startup cofounder remember the spark in the VC's eyes and their mind-I when they informed you that your pitch resulted in the first round of funding? It worked because you grabbed the VC's Inner-Child via your ptich and thrusted their left-brain and right-brain over the threh-hold right into your startup vision and story.
 
-  https://stackoverflow.com/users/237740/fred-grott
+This is what the Android UX and Android App creation is all about; in that I use the app architecture and structures, the UI flow through task and activities, and visual cueing to grab the user's Inner-Child in that visceral awe-moment. And you can see that in the light of the user's eyes and face.
 
-instead of the candidate you have before you?
 
-Other profiles:
+## Don't Kill Your Startup Story, Put it in a solid nonfreezing app arch framework
 
-LinkedIn:https://www.linkedin.com/in/shareme/
+Now, you have seeen where the spark in the eye of the inner-child is killed along with your story by just one app freeze happening when the user is using your app. When that happens your startup story dies, as they close the app in disgust and put away the android devvice and than you have lost an android app user often for good.
 
-AngelList:https://angel.co/fred-grott
+Google removed some the app freezes by recycling items in RecycleView. But, that is not enough as we still have the Model and View stuff somewhat with tight coupling including the states. Thus, I am borrowing cncepts from Facebook's Flux javascript app arch and Elm's Reedux javascrip app arch and adopting it to Android and Kotlin.
 
-Simple, I have the combination of Both Customer-Appreciation-Vision and 
-Deep Android App Architecture edge pushing that you are seeking. In 
-my current android app sampels I am pushing the Fluxaan which 
-is a combination of Flux borrowed from Facebook react and Redux which 
-results in a more stable and responsive app compared to the 
-default android app arhcitecture styles that Google 
-encourages.
 
-## What Senior Android Dev Looks Like?
 
-The things you should see in app-code samples for a Senior Android Developer cover these areas:
 
-* Choice and or creation of App Architecture to Produce a Responsive Mobile App
-* Customize and or backporting UI widgets to create the user experience
-* Adherence to a UI Design framework
-* Decoupling, not only the app components but decoupling it from also the backend
-
-If you cannot find these features in my app code samples, than obviously you as a startup cofounder need to seek someone else. I was a startup founder once, I know what you gals and guys want in a devloper and wnat you 200 percent looking awesome.
 
 ## Contact
 
