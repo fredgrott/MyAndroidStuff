@@ -20,7 +20,7 @@ Google removed some the app freezes by recycling items in RecycleView. But, that
 
 Remember, this is the first raw alpha version and I am implementing the app arch as a set of lib modules into absic todo app. The reason I am using Kotlin instead of Java is I get the new functional languagge features of JavaSe* and up backported via Kotlin without me having to do that messy porting myself.
 
-KTUni
+[KTUni](https://github.com/shareme/KTUni)
 
 
 
