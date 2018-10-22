@@ -2,25 +2,18 @@
 
 # MyAndroidStuff
 
+Let's be blunt. You as the startup cofounder need to find a Senior Android Dev like yesterday and 
+no one with a Senior Android Dev title will horizontially move to your 100k postion at your startup.
+Have you thought about looking for those Android Devs who are currently praticing AndroidDevOps 
+standards, for example:
 
-## What is Android UX and Andriod App Creation
+[KTDevOps](https://github.com/shareme/KTDevOps)
 
-Do you as a startup cofounder remember the spark in the VC's eyes and their mind-I when they informed you that your pitch resulted in the first round of funding? It worked because you grabbed the VC's Inner-Child via your ptich and thrusted their left-brain and right-brain over the threh-hold right into your startup vision and story.
+The real secret to Material Design App conversions is having a DevOps system to push out new app 
+features on a regular basis to than re-use in assisting app users to rave about it on social platforms.  Yes, the visual Material Design effects are important but you need that 2nd part of the 
+one-to-two punch namely regular new feature updates via a well setup DevOps strategy.
 
-This is what the Android UX and Android App creation is all about; in that I use the app architecture and structures, the UI flow through task and activities, and visual cueing to grab the user's Inner-Child in that visceral awe-moment. And you can see that in the light of the user's eyes and face.
-
-
-## Don't Kill Your Startup Story, Put it in a solid nonfreezing app arch framework
-
-Now, you have seeen where the spark in the eye of the inner-child is killed along with your story by just one app freeze happening when the user is using your app. When that happens your startup story dies, as they close the app in disgust and put away the android devvice and than you have lost an android app user often for good.
-
-Google removed some the app freezes by recycling items in RecycleView. But, that is not enough as we still have the Model and View stuff somewhat with tight coupling including the states. Thus, I am borrowing cncepts from Facebook's Flux javascript app arch and Elm's Reedux javascrip app arch and adopting it to Android and Kotlin.
-
-## Where can You see this?
-
-Remember, this is the first raw alpha version and I am implementing the app arch as a set of lib modules into absic todo app. The reason I am using Kotlin instead of Java is I get the new functional languagge features of JavaSe* and up backported via Kotlin without me having to do that messy porting myself.
-
-[KTUni](https://github.com/shareme/KTUni)
+AND, integrating my dev processes with YOUR STARTUP's MARKETING push is in fact Senior level Engineer.
 
 
 
