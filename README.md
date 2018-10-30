@@ -2,20 +2,15 @@
 
 # MyAndroidStuff
 
-Let's be blunt. You as the startup cofounder need to find a Senior Android Dev like yesterday and 
-no one with a Senior Android Dev title will horizontially move to your 100k postion at your startup.
-Have you thought about looking for those Android Devs who are currently praticing AndroidDevOps 
-standards, for example:
+Why? Because you as a startup cofounder who has released their first version of the iPhone app and got a funding round now has to use the potential android app users as app conversion leverage to establish the network and setup for the next round of funding. While Google highlights Design in their Material Design App conversion case studies, its Android DevOps that will play that role. 
+
+Let's face it your iPhone app success means that the design of the UI of the app already has the basic foundation so in fact one needs to focus on using Responsive Design and Reactive Programming to eliminate all the app freezes that kill App conjversion growth and establishing the network effect.
+
+If you used a Product Development Vice President, that person would recommend finding an Android Developer concentrating on functtional programming Kotlin and Reactive programming and Android Dev Ops. Devs Ops in the form of a working build script is the organizer, organizing builds to incorporate instrumented TDD, ATDD, and BDD unit testing. My Example for Kotlin Android App Proojects is here:
 
 [KTDevOps](https://github.com/shareme/KTDevOps)
 
-The real secret to Material Design App conversions is having a DevOps system to push out new app 
-features on a regular basis to than re-use in assisting app users to rave about it on social platforms.  Yes, the visual Material Design effects are important but you need that 2nd part of the 
-one-to-two punch namely regular new feature updates via a well setup DevOps strategy.
-
-AND, integrating my dev processes with YOUR STARTUP's MARKETING push is in fact Senior level Engineer.
-
-
+Now let's add to that Android Dev Expertise picture. 
 
 ## Contact
 
