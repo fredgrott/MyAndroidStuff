@@ -43,6 +43,10 @@ You do not need that Dev from corporate IT with that posioned unit tests at end 
 
 If you are a startup cofounder fully funded and ready to build the first version of you Android app than you should contact me via the below addy. Please, no recruiter spam.
 
+Due to spam, you need to answer this question first in your email:
+
+Why does multiplying a series of primes in order and addding one produce a slim sieve that produces primes always?
+
 fred DOT grott AT gmail DOT com
 
 
