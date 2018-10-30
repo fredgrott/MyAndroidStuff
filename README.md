@@ -47,6 +47,8 @@ Due to spam, you need to answer this question first in your email:
 
 Why does multiplying a series of primes in order and addding one produce a slim sieve that produces primes always?
 
+Okay okay, I use my prime number hunting hobby to keep my deductive and inductive wrestling skills that I use for unit testing sharp. I am an engineer and you would expect such things from me, right?
+
 fred DOT grott AT gmail DOT com
 
 
