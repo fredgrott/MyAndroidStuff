@@ -10,7 +10,34 @@ If you used a Product Development Vice President, that person would recommend fi
 
 [KTDevOps](https://github.com/shareme/KTDevOps)
 
-Now let's add to that Android Dev Expertise picture. 
+Now let's add to that Android Dev Expertise picture. At StackOverflow I am at top 11 percent for answering dev questions abotu android apis and development:
+
+[My StackOverflow Profile](https://stackoverflow.com/users/237740/fred-grott?tab=reputation)
+
+Some of my Medium Android Ev Articles are here:
+
+### Android, Secure Those 3rd Party API Keys!
+
+https://medium.com/@fredgrott/android-secure-those-3rd-party-api-keys-f33cf1a1f465
+
+### Android Universal User ID, for Android Freaks Everywhere
+
+https://medium.com/@fredgrott/android-universal-user-id-for-android-freaks-everywhere-98b4467d1580
+
+### Do Not Force Android Users Away, Handle Your Exceptions
+
+https://medium.com/@fredgrott/do-not-force-android-users-away-handle-your-exceptions-af01304e58ce
+
+### GitHashses For Android Freaks
+
+https://medium.com/@fredgrott/githashses-for-android-freaks-76013ff4b5da
+
+Okay, so you say so what? I can understand that having made attempts at the startup game itself as founder. You do want to have to direct someone at this stage but instead want the Dev Engineer to observe things and jump in and come up with action plans to solve things and get it down. However, 
+are you going to turn away a Dev Engineer already executing on such action plans such as the very first steps in getting your android app build on Reactive Programming technology implied in Responsive Design methodology?
+
+You do not need that Dev from corporate IT with that posioned unit tests at end of production by dev staff that never touches the app code. You need me instead!
+
+
 
 ## Contact
 
