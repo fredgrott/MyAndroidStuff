@@ -10,6 +10,9 @@ If you used a Product Development Vice President, that person would recommend fi
 
 [KTDevOps](https://github.com/shareme/KTDevOps)
 
+And the MvRX MVVM Cleean Arch Kotlin RxJava example
+[DroidKtMvRxMvvmKit](https://github.com/shareme/DroidKtMvRxMvvmKit)
+
 Now let's add to that Android Dev Expertise picture. At StackOverflow I am at top 11 percent for answering dev questions abotu android apis and development:
 
 [My StackOverflow Profile](https://stackoverflow.com/users/237740/fred-grott?tab=reputation)
